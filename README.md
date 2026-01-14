@@ -60,10 +60,8 @@ This project uses the **Road Damage Dataset (RDD 2022)**, a large-scale, multi-c
 - **Focus class**: **D40 (Potholes)**
 
 ### Official Resources
-- 🔗 Dataset Repository: https://github.com/sekilab/RoadDamageDetector  
-- 📄 Research Paper: https://arxiv.org/abs/2109.02795  
-- 📦 Kaggle Mirror: https://www.kaggle.com/datasets/ariyadey/rdd2022-road-damage-detection  
-
+- 🔗 Dataset Repository: https://github.com/sekilab/RoadDamageDetector
+  
 > ⚠️ Due to dataset size and licensing constraints, the dataset is **not included** in this repository.  
 > Users should download the dataset from the official sources above and follow the directory structure described in this project.
 
