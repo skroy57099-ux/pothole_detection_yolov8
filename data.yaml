@@ -1,0 +1,7 @@
+path: C:/Users/KAKASHI/Desktop/Data Science/ML Project/pothole_project/data/raw/filtered_d40/yolo_dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: pothole

@@ -1,0 +1,29 @@
+# ---- Python cache ----
+__pycache__/
+*.pyc
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Virtual environments ----
+venv/
+env/
+
+# ---- YOLO runs & inference outputs ----
+runs/
+runs/detect/
+runs/inference_baseline/
+runs/inference_conf_0.5/
+
+# ---- Videos (too large for GitHub) ----
+*.mp4
+*.avi
+*.mov
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE files ----
+.vscode/
+.idea/
