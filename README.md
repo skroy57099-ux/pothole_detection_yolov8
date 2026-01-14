@@ -50,6 +50,24 @@ Damage classes: D00, D10, D20, D40, …
 
 ⚠️ This project focuses exclusively on class D40, which corresponds to potholes, to reduce ambiguity and improve detection reliability.
 
+## Dataset: Road Damage Dataset (RDD 2022)
+
+This project uses the **Road Damage Dataset (RDD 2022)**, a large-scale, multi-country dataset designed for automated road damage detection.
+
+- **Source**: RDD 2022 (India & Japan)
+- **Annotation format**: Pascal VOC (XML)
+- **Damage classes**: D00, D10, D20, D40
+- **Focus class**: **D40 (Potholes)**
+
+### Official Resources
+- 🔗 Dataset Repository: https://github.com/sekilab/RoadDamageDetector  
+- 📄 Research Paper: https://arxiv.org/abs/2109.02795  
+- 📦 Kaggle Mirror: https://www.kaggle.com/datasets/ariyadey/rdd2022-road-damage-detection  
+
+> ⚠️ Due to dataset size and licensing constraints, the dataset is **not included** in this repository.  
+> Users should download the dataset from the official sources above and follow the directory structure described in this project.
+
+
 🧠 Methodology
 1️⃣ Unified Dataset Preparation (India + Japan)
 
